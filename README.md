@@ -1,7 +1,7 @@
 # Flutter Task Manager App
 <p align= "center"> Splash Screen  </p>   
 <p align="center">
-  <img width="480" height="913" src="https://github.com/FilipeIlunga/TaskManagerApp/blob/master/ScreenShot/SplashScreen.png">
+  <img width="480m" height="913m" src="https://github.com/FilipeIlunga/TaskManagerApp/blob/master/ScreenShot/SplashScreen.png">
 </p>
 
  Dark HomePage                 |   Light HomePage        
